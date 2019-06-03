@@ -1,5 +1,3 @@
-evaluate [Fu "cos" (Op (Val 3) "+" (Val 4))]
-evaluate' "cos ( 3 + 4 )"
 import Data.List
 import Data.Char
 
