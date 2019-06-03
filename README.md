@@ -6,7 +6,7 @@
   ```
   evaluate [Fu "cos" (Op (Val 3) "+" (Val 4))]
   ```
-  or in String, and the correct Tree structure wll be build.
+  or in String, and the correct Tree structure will be build.
   ```
   evaluate' "cos ( 3 + 4 )"
   ```
